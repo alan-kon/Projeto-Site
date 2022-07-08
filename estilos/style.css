@@ -7,6 +7,12 @@ body{
     background-color: rgb(218, 183, 250);
 }
 
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: fill;
+  }
+
 main {
     background-color: white;
     width: 500px;
